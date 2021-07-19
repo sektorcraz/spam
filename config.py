@@ -1,7 +1,7 @@
 
 #BOT:
-TOKEN = "1408850423:AAFN4JzWTQGmKN3_x7S0ByEfV-BQASjvJAE" # ТОКЕН БОТА
-ADMIN = 1866675337 # ИД АДМИНА, узнать свой айди - @get_any_telegram_id_bot
+TOKEN = "1876963844:AAGkOi_Ag9ontGksWNxfHmQsBHKFdBHSCJo" # ТОКЕН БОТА
+ADMIN = 1323190262 # ИД АДМИНА, узнать свой айди - @get_any_telegram_id_bot
 
 DIR = "" # Путь к файлу, если нужно
 
